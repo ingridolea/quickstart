@@ -4,9 +4,32 @@ title = "Ingrid Olea"
 theme = "hallo"
 publishDir = "docs"
 [Author]
-    name = "Ingrid"
+	name = "Ingrid Olea"
 [params]
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/"
+	[[params.links]]
+		icon = "github"
+		title = "Github"
+		url = "https://github.com/ingridolea"
+
+	[[params.links]]
+		icon = "twitter"
+		title = "Twitter"
+		url = "https://twitter.com/ingridelena/"
+
+	[[params.links]]
+		iconset = "fas"
+		icon = "envelope"
+		title = "email"
+		url = "mailto:ingrid_olea@hks.harvard.edu"
+
+	[[params.links]]
+		iconset = "fas"
+		icon = "info-circle"
+		title = "Additional information"
+		url = "www.ingridolea.com"
+
+
+	[params.colors]
+		background = "#900C3F"
+		foreground = "#edf7ff"
+		hover = "#ffba82"
