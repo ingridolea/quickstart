@@ -1,5 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ingrid Olea"
-theme = "ananke"
+theme = "hallo"
 publishDir = "docs"
+[Author]
+    name = "Ingrid"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
