@@ -7,9 +7,15 @@ publishDir = "docs"
 	name = "Ingrid Olea"
 [params]
 	[[params.links]]
-		icon = "github"
-		title = "Github"
-		url = "https://github.com/ingridolea"
+		iconset = "fas"
+		icon = "envelope"
+		title = "email"
+		url = "mailto:ingrid_olea@hks.harvard.edu"
+
+	[[params.links]]
+		icon = "linkedin"
+		title = "LinkedIn"
+		url = "https://www.linkedin.com/in/ingrid-olea-583bb019/"	
 
 	[[params.links]]
 		icon = "twitter"
@@ -17,16 +23,15 @@ publishDir = "docs"
 		url = "https://twitter.com/ingridelena/"
 
 	[[params.links]]
-		iconset = "fas"
-		icon = "envelope"
-		title = "email"
-		url = "mailto:ingrid_olea@hks.harvard.edu"
+		icon = "github"
+		title = "Github"
+		url = "https://github.com/ingridolea"
 
 	[[params.links]]
 		iconset = "fas"
-		icon = "info-circle"
-		title = "Additional information"
-		url = "www.ingridolea.com"
+		icon = "address-card"
+		title = "CV"
+		url = "images/Olea_Ingrid_Resume_250120.pdf"
 
 
 	[params.colors]
