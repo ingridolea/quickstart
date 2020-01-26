@@ -29,10 +29,15 @@ publishDir = "docs"
 
 	[[params.links]]
 		iconset = "fas"
-		icon = "address-card"
+		icon = "file-pdf"
 		title = "CV"
 		url = "images/Olea_Ingrid_Resume_250120.pdf"
 
+    [[params.links]]
+        iconset = "fas"
+        icon = "info-circle"
+        title = "Additional information"
+        url = "#info"
 
 	[params.colors]
 		background = "#900C3F"
