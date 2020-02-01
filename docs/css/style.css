@@ -70,8 +70,8 @@ main .block{
 	}
 
 main .block.introduction{
-	margin-top:20vh
-	;min-height:calc(100vh - 20vh)
+	margin-top:20vh;
+	min-height:calc(100vh - 20vh)
 }
 
 main .column.left{
@@ -97,7 +97,7 @@ main .column.right .links a{
 	margin-right:0.5rem;
 	text-decoration:none
 }
-@media screen and (max-width: 992px){
+@media screen and (max-width: 200px){
 	main .block{
 		flex-direction:column
 	}
