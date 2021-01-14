@@ -10,7 +10,7 @@ html{font-family:Montserrat,"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-ser
 
 /* Create four equal columns that sits next to each other */
 .photocolumn {
-  flex: 20%;
+  flex: 15%;
   max-width: 20%;
   padding: 0 4px;
 }
