@@ -24,7 +24,7 @@ html{font-family:Montserrat,"Helvetica Neue","Segoe UI",Helvetica,Arial,sans-ser
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .photocolumn {
-    flex: 50%;
+    flex: 40%;
     max-width: 50%;
   }
 }
